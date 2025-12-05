@@ -1,0 +1,16 @@
+# Ignore unnecessary files
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.git/
+.gitignore
+*.md
+tests/
+test_image.jpg
+pytest.ini
+run_tests.py
+.env
+*.log
+
